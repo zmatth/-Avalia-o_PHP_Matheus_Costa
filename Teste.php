@@ -19,3 +19,5 @@ $registroGeral->adicionarRegistro($nsc1);
 $registroGeral->adicionarRegistro($csm1);
 $registroGeral->adicionarRegistro($obito1);
 $registroGeral->mostrarRegistros();
+
+//tela index de teste das paginas
